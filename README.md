@@ -1,4 +1,4 @@
-# list-of-ml-projects
+# List of projects examining Deep Learning Hyperparameters
 
 
 
