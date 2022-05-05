@@ -1,6 +1,9 @@
 # list-of-ml-projects
 
-| Project  | Experiment Topics | Link
-| ------------- | ------------- |
-|  classic-data-augmentation| Batch augmentation and cutout regularization | https://github.com/tamanna-a/classic-data-augmentation |
-| Learning Rates  |  | https://github.com/tamanna-a/learning-rates |
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
+
